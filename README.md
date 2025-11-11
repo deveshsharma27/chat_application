@@ -31,3 +31,7 @@ Open terminal in the folder and run:
 ```bash
 g++ -std=c++17 server.cpp -lws2_32 -o server.exe
 g++ -std=c++17 client.cpp -lws2_32 -o client.exe
+## In terminal run:
+-server file:.\server.exe
+-client file: .\client.exe
+
